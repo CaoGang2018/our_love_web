@@ -51,7 +51,7 @@
       <!-- /.container-fluid -->
     </nav>
     <div>
-        <router-view/>
+      <router-view />
     </div>
   </div>
 </template>
@@ -59,5 +59,6 @@
 <script>
 export default {
   name: "HeadPage",
+  
 };
 </script>
